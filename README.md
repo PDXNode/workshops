@@ -2,13 +2,6 @@
 
 This repo is for the organization and planning of workshops, meetings with a dedicated topic, volunteers, and a couple teachers. This arm of PDXNode will be aiming at helping out the beginners and intermediate node developers.
 
-
-## Contributing
-
-There is a `volunteers.md` file at root that you should add yourself to if you want to sign up to mentor workshops in general. If there is a workshop that you want to mentor in particular, add yourself to the workshop's specific `volunteers.md` file. 
-
-Aside from mentoring during the workshops. Reviewing pull requests and going through the issues are some of the primary ways to get involved.
-
 ## I want to propose a workshop!
 
 1. Come to PDXNode or #pdxnode on IRC and talk to us about the workshop (not required, but encouraged)
@@ -29,7 +22,7 @@ PDXNode organizers will review it, and give you any feedback needed. We don't pr
 
 Check the `README.md` for the workshop will be. There should be a section about when it is coming up. Not all workshops will have a date.
 
-## Asking questions, other organization things.
+## I have a question, suggestion, or other feedback!
 
 Use issues to ask questions or give suggestions, or do your organizational tasks for workshops. Mention the workshop in the title of your issue if it is specific to one.
 
