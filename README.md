@@ -14,3 +14,8 @@ Aside from mentoring during the workshops. Reviewing pull requests and going thr
 Each workshop has its own directory. It will have a `readme.md` that describes the workshop, `mentors.md` for mentors to sign up, then any other files needed for the workshop.
 
 Issues that pertain to a particular workshop should be tagged as such. If Github doesn't let you tag it, just mention that in the issue and we'll go through and tag it.
+
+## License
+
+MIT for code
+[http://creativecommons.org/licenses/by/4.0/])(Creative Commons Attribution 4.0 International License) for content.
