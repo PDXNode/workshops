@@ -29,4 +29,4 @@ Use issues to ask questions or give suggestions, or do your organizational tasks
 ## License
 
 * MIT for code
-* [http://creativecommons.org/licenses/by/4.0/])(Creative Commons Attribution 4.0 International License) for content.
+* [http://creativecommons.org/licenses/by/4.0/](Creative Commons Attribution 4.0 International License) for content.
