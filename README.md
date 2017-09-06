@@ -28,5 +28,5 @@ Use issues to ask questions or give suggestions, or do your organizational tasks
 
 ## License
 
-* MIT for code
-* [http://creativecommons.org/licenses/by/4.0/](Creative Commons Attribution 4.0 International License) for content.
+* [MIT](https://spdx.org/licenses/MIT) for code
+* [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) for content.
